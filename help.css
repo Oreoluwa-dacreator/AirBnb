@@ -372,6 +372,13 @@ footer {
     color: #444;
 }
 
+.designed-by {
+    font-size: large;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
 /*Tablet*/
 @media (max-width: 1024px) {
 

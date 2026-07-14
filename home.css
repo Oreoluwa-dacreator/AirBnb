@@ -376,6 +376,13 @@ footer {
   color: #444;
 }
 
+.designed-by {
+  font-size: large;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
 /* TABLET (max 1024px) */
 @media (max-width: 1024px) {
   .navbar {

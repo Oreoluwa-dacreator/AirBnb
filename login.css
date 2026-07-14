@@ -209,6 +209,13 @@ footer {
 .footer-bottom a {
     color: #444;
 }
+
+.designed-by {
+    font-size: large;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
   
 @media (max-width: 768px) {
     .navbar {
