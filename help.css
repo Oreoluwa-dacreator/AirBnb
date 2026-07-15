@@ -25,14 +25,29 @@ nav {
     height: 60px;
     display: flex;
     align-items: center;
+    gap: 8px;
+}
+
+.logo a {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    text-decoration: none;
+    color: inherit;
+}
+
+.logo img {
+    width: 60px;
+    height: 60px;
+    display: block;
 }
 
 .logo p {
     white-space: nowrap;
     font-family: 'Figtree', sans-serif;
-    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
     font-weight: 550;
     font-size: large;
+    text-decoration: none;
 }
 
 .menu {

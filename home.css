@@ -306,7 +306,7 @@ body {
 }
 
 .getaway-item {
-    text-decoration: none;
+  text-decoration: none;
   color: #222;
   display: flex;
   flex-direction: column;
